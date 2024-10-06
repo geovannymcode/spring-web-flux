@@ -99,7 +99,6 @@ Para ejecutar las pruebas unitarias:
 ```bash
 mvn test
 ```
-
 ---
 
 ## 📚 Referencias
