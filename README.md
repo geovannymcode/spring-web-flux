@@ -117,6 +117,7 @@ mvn test
 - Twitter: [@geovannycode](https://x.com/geovannycode)
 - LinkedIn: [Geovanny Mendoza](https://www.linkedin.com/in/geovannycode/)
 - Bluesky: [Geovanny Mendoza](https://bsky.app/profile/geovannycode.bsky.social)
+
 ---
 
 ¡Espero que este README documente bien tu proyecto! 🚀🔥
