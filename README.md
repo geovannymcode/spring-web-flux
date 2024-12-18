@@ -114,6 +114,7 @@ mvn test
 
 - Web: [Geovanny Mendoza](https://geovannycode.com/)
 - GitHub: [@geovannymcode](https://github.com/geovannymcode)
+- Twitter: [@geovannycode](https://x.com/geovannycode)
 
 ---
 
