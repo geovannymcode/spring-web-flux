@@ -113,6 +113,7 @@ mvn test
 ¡Sígueme para más contenido y proyectos como este!
 
 - Web: [Geovanny Mendoza](https://geovannycode.com/)
+- GitHub: [@geovannymcode](https://github.com/geovannymcode)
 
 ---
 
