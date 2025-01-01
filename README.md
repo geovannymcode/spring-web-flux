@@ -109,4 +109,11 @@ mvn test
 
 ---
 
+## 🌟 Conéctate conmigo
+¡Sígueme para más contenido y proyectos como este!
+
+- Web: [Geovanny Mendoza](https://geovannycode.com/)
+
+---
+
 ¡Espero que este README documente bien tu proyecto! 🚀🔥
